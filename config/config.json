@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "xc",
+    "database": "sequelize",
+    "host": "localhost",
+    "port": "2000",
+    "logging": true,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "xc",
+    "database": "sequelize",
+    "host": "localhost",
+    "port": "2000",
+    "logging": true,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "xc",
+    "database": "sequelize",
+    "host": "localhost",
+    "port": "2000",
+    "logging": true,
+    "dialect": "postgres"
+  }
+}
